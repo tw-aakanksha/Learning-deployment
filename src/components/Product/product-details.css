@@ -1,0 +1,38 @@
+.product-details{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+
+.product-details-footer{
+    font-size: 20px;
+    margin-top: 100px;
+    border: solid 0px black;
+    padding: 10px;
+    margin: 60px;
+}
+
+.addtocart{
+    margin-top: 30px;
+}
+
+
+.product-details-footer p {
+    width: 80%;
+    margin-top: 30px;
+
+}
+
+.product-details img {
+
+    width: 20%;
+    height: 20%;
+    margin: 80px;
+    border-radius: 10px;
+
+}
+
+.name, .price{
+    font-weight: bold;
+}

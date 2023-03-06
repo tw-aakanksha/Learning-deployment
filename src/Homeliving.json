@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Alarm clock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/alarmclock_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 2,
+    "name": "Bed",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/bed_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 3,
+    "name": "Chopsticks",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/chopsticks_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 4,
+    "name": "Clock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/clock_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 5,
+    "name": "Curtain",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/curtain_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 6,
+    "name": "Cutlery",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/cutlery_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 7,
+    "name": "Dining table",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/diningtable_600.png",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "Drill",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/drill_600.png",
+    "price": 18
+  },
+  {
+    "id": 9,
+    "name": "Hammer",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/hammer_600.png",
+    "price": 18
+  },
+  {
+    "id": 10,
+    "name": "Hanger",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/hanger_600.png",
+    "price": 18
+  },
+  {
+    "id": 11,
+    "name": "Indoor plant",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/indoorplant_600.png",
+    "price": 18
+  },
+  {
+    "id": 12,
+    "name": "Ladder",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/ladder_600.png",
+    "price": 18
+  },
+  {
+    "id": 13,
+    "name": "Lock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/lock_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 14,
+    "name": "Matress",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/mattress_600.png",
+    "price": 18
+  },
+  {
+    "id": 15,
+    "name": "Mirror",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/mirror_600.png",
+    "price": 18
+  }
+]

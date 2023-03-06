@@ -1,0 +1,42 @@
+fileignoreconfig:
+  - filename: src/utils/firebase_buyer/firebasebuyer-utils.js
+    checksum: 6d699856ae9295fc93787510d161b733997111f2b7570a1adee137119ad92ad9
+  - filename: src/utils/firebase_seller/firebaseseller-utils.js
+    checksum: dd54e80652afd0b783d4226046f50baa979167e069a9a9833f8beb602a7f5377
+  - filename: yarn.lock
+    checksum: e646c5e4cb866ba0f9bc952f24b7038c121b0cb3632f51399ec00bd719ff7db2
+  - filename: package-lock.json
+    checksum: 48b8a80a51f7311718763552b34feff29e8eadede04152810fdaeaf6902fb968
+  - filename: src/components/Data/groeriesdata.jsx
+    checksum: d6c267b7778b7dc3443dcc094b4c339e9c39e21d58f4c6ba92cf33543bd40a6e
+  - filename: src/components/Data/homelivingdata.jsx
+    checksum: 84c6d8d2cdb5df6bd46e25462f02a87e643f8b98e2225602bb42d9a2a4751ab1
+  - filename: src/components/Data/mendata.jsx
+    checksum: 6e38e74b412779fd9820a2704a5ebe91ffc93248c4f774350e02db15ba7b2154
+  - filename: src/components/Data/womendata.jsx
+    checksum: 346b2de4177bc867e7c87d25d6e7b7ef51fa37e3f19b51ff6adc8862c4fbc757
+  - filename: docker-compose.yml
+    checksum: fd249f4f8fc96e2cb2e0ed9914aae5c6c54c03f60c34a13f85c7c843a4656168
+  - filename: src/components/Data/hatdata.jsx
+    checksum: 6c5787ee4a6658b62d4b606952c67a019da0f6bc8e65542a5caa4e20770567e9
+  - filename: src/components/signup-seller/signup-seller-component.jsx
+    checksum: 6e580b00fae5c7d629795ad818e2e51b41e5c6b9e2474d2b27f139a0a647d98a
+  - filename: src/components/Login-Seller/login-seller.jsx
+    checksum: f312b2cce7151441b321d796924fdc4bfe5607612477f09022c9b341cfb53392
+  - filename: src/components/Login-buyer/login-buyer.jsx
+    checksum: d03975e3ec24427316a3bd764f1e8f2ad8382f4e946d831944cd2252e8623e49
+  - filename: src/components/Product/Cart.jsx
+    checksum: b075c720d811d44c36722658404bc1e0178993f72299aaae218c2c4dbdbe5336
+  - filename: src/components/Product/Wishlist.jsx
+    checksum: c6af4d8e59ec71d8adbafa0d2616507cb53a594c01f269d8548a7f1f6add20c6
+  - filename: src/components/Product/products-container.jsx
+    checksum: 6213f6078fc9a627726206be9154950d534820c1071c667d6b8f2766042b5ad9
+  - filename: src/components/signup-buyer/signup-buyer-component.jsx
+    checksum: 64ebf61cd31b5b2d4113e6f05c6953f8ec057a3c8ea1b2015f53085745112d36
+  - filename: src/components/signup-buyer/signup-buyer.jsx
+    checksum: 7499fdf8c4105af9d2ee8480c879f6eac6d2d7339a770390c5806c833df48e06
+  - filename: src/components/Categories.jsx/filterpage.jsx
+    checksum: 855a21d2fde2a18e10b5ed0d2bf636824e7dcf4f1883993e737c89e6c1824d35
+  - filename: src/routes/navigation/searchbar.jsx
+    checksum: 77f54f8ec95fdf349338a34c1bc8f5d15c4b3112a25d7d37cbccc77fa593cc5c
+version: ""

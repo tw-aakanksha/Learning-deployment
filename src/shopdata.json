@@ -1,0 +1,101 @@
+[
+
+  {
+        "id": 1,
+        "name": "Biscuit",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/biscuit_600.png",
+        "price" :20
+      },
+      {
+        "id": 2,
+        "name": "Ginger",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/ginger_600.png",
+        "price" :10
+      },
+      {
+    "id": 3,
+    "name": "Chopsticks",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/chopsticks_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 4,
+    "name": "Clock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/clock_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 5,
+    "name": "Curtain",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/curtain_600.png",
+    "price": 18
+  },
+
+  {
+    "id": 6,
+    "name": "Cutlery",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/cutlery_600.png",
+    "price": 18
+  },
+
+
+      {
+    "id": 7,
+    "name": "Red Beanie",
+    "imageUrl": "https://i.ibb.co/bLB646Z/red-beanie.png",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "Wolf Cap",
+    "imageUrl": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
+    "price": 14
+  },
+   {
+            "id": 9,
+            "name": "Men backpack",
+            "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menbackpack_600.png",
+            "price": 150
+         
+    },
+
+    
+    {
+        "id": 10,
+        "name": "Sneakers",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/sneakers_600.png",
+        "price": 25
+     
+     
+    },
+
+    {
+        "id": 11,
+        "name": "Belt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/belt_600.png",
+        "price": 15
+      },
+
+    {
+        "id": 12,
+        "name": "Shirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenshirt_600.png",
+        "price": 25
+     
+     
+},
+
+{
+    "id": 13,
+    "name": "Skirt",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenskirt_600.png",
+    "price": 25
+ 
+}
+
+
+
+  ]
+  

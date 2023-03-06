@@ -1,0 +1,724 @@
+
+[
+    {
+        "id": 1,
+        "name": "Cracker Biscuits",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/biscuit_600.png",
+        "price" :20,
+        "Category" : "groceries",
+        "Info" : "Cracker Biscuits with high nutrients and Proteins"
+      },
+      {
+        "id": 2,
+        "name": "Ginger",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/ginger_600.png",
+        "price" :10,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 3,
+        "name": "Instant Noodles",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/instantnoodles_600.png",
+        "price" :30,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 4,
+        "name": "Juice",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/juice_600.png",
+        "price" :20,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 5,
+        "name": "Ketchup",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/ketchup_600.png",
+        "price" :20,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 6,
+        "name": "Matches",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/matches_600.png",
+        "price" :5,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 7,
+        "name": "Mayonaise",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/mayonaise_600.png",
+        "price" :100,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 8,
+        "name": "Mustard",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/mustard_600.png",
+        "price" :10,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 9,
+        "name": "OatMeal",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/oatmeal_600.png",
+        "price" :20,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 10,
+        "name": "Olive oil",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/oliveoil_600.png",
+        "price" :30,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 11,
+        "name": "Onions",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/onions_600.png",
+        "price" :20,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 12,
+        "name": "Pork",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/pork_600.png",
+        "price" :180,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 13,
+        "name": "Tea",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/tea_600.png",
+        "price" :12,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 14,
+        "name": "Tequila",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/tequila_600.png",
+        "price" :18,
+        "Category" : "groceries"
+      },
+
+      {
+        "id": 15,
+        "name": "Tomatoes",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/tomatoes_600.png",
+        "price" :"18/kg",
+        "Category" : "groceries"
+      }
+      ,
+{
+        "id": 16,
+        "name": "Headband",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/accessories/headband_600.png",
+        "price" :"18",
+        "Category" : "women"
+      }
+      ,
+      {
+        "id": 17,
+        "name": "Bracelet",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/accessories/bracelet_600.png",
+        "price" :"18",
+        "Category" : "women"
+      }
+      ,
+      {
+        "id": 18,
+        "name": "Bangles",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/accessories/bangle_600.png",
+        "price" :"18/kg",
+        "Category" : "women"
+      }
+      ,
+      {
+        "id": 19,
+        "name": "Necklace",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/accessories/necklace_600.png",
+        "price" :"18",
+        "Category" : "women"
+      }
+      ,
+      {
+        "id": 20,
+        "name": "Ring",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/accessories/ring_600.png",
+        "price" :"18",
+        "Category" : "women"
+      }
+      ,
+
+      {
+        "id":21,
+        "name":"Cookies",
+        "price":25,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/features/product_1.jpg"
+         ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":22,
+        "name":"Grapes",
+        "price":30,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/features/product_2.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":23,
+        "name":"Jack Fruit",
+        "price":30,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/features/product_3.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":24,
+        "name":"Banana",
+        "price":15,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/features/product_4.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":25,
+        "name":"Eggs",
+        "price":5,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/features/product_5.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":26,
+        "name":"Cup Cake",
+        "price":10,
+        "imageUrl":"  https://16stitches.com/assets/frontend/images/images/product/bakery/product_1.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":27,
+        "name":"Red Velvet",
+        "price":50,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/bakery/product_2.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":28,
+        "name":"Cookies",
+        "price":30,
+        "imageUrl":" https://16stitches.com/assets/frontend/images/images/product/bakery/product_3.jpg"
+           ,
+        "Category" : "groceries"
+      },
+  
+      {
+        "id":29,
+        "name":"Fruit Cake",
+        "price":20,
+        "imageUrl":"  https://16stitches.com/assets/frontend/images/images/product/bakery/product_4.jpg"
+           ,
+        "Category" : "groceries"
+      },
+
+      {
+        "id":30,
+        "name":"Icecream",
+        "price":15,
+        "imageUrl":"  https://16stitches.com/assets/frontend/images/images/product/bakery/product_5.jpg"
+           ,
+        "Category" : "groceries"
+      },
+
+      {
+        "id":31,
+        "name":"Chocolate Cookie",
+        "price":20,
+        "imageUrl":"  https://16stitches.com/assets/frontend/images/images/product/bakery/product_6.jpg"
+           ,
+        "Category" : "groceries"
+      },
+
+     
+
+  {
+    "id": 32,
+    "name": "Blue Beanie",
+    "imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+    "price": 18    ,
+        "Category" : "hats"
+  },
+  {
+    "id": 33,
+    "name": "Brown Cowboy",
+    "imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+    "price": 35,
+        "Category" : "hats"
+  },
+  {
+    "id": 34,
+    "name": "Grey Brim",
+    "imageUrl": "https://i.ibb.co/RjBLWxB/grey-brim.png",
+    "price": 25,
+        "Category" : "hats"
+  },
+  {
+    "id": 35,
+    "name": "Green Beanie",
+    "imageUrl": "https://i.ibb.co/YTjW3vF/green-beanie.png",
+    "price": 18,
+        "Category" : "hats"
+  },
+  {
+    "id": 36,
+    "name": "Palm Tree Cap",
+    "imageUrl": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
+    "price": 14,
+        "Category" : "hats"
+  },
+  {
+    "id": 37,
+    "name": "Red Beanie",
+    "imageUrl": "https://i.ibb.co/bLB646Z/red-beanie.png",
+    "price": 18,
+        "Category" : "hats"
+  },
+  {
+    "id": 38,
+    "name": "Wolf Cap",
+    "imageUrl": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
+    "price": 14,
+        "Category" : "hats"
+  },
+  {
+    "id": 39,
+    "name": "Blue Snapback",
+    "imageUrl": "https://i.ibb.co/X2VJP2W/blue-snapback.png",
+    "price": 16,
+        "Category" : "hats"
+  },
+  {
+    "id": 40,
+    "name": "Mirror",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/mirror_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 41,
+    "name": "Alarm clock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/alarmclock_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 42,
+    "name": "Bed",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/bed_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 43,
+    "name": "Chopsticks",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/chopsticks_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 44,
+    "name": "Clock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/clock_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 45,
+    "name": "Curtain",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/curtain_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 46,
+    "name": "Cutlery",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/cutlery_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 47,
+    "name": "Dining table",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/diningtable_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+    "id": 48,
+    "name": "Drill",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/drill_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+    "id": 49,
+    "name": "Hammer",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/hammer_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+    "id": 50,
+    "name": "Hanger",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/hanger_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+    "id": 51,
+    "name": "Indoor plant",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/indoorplant_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+    "id": 52,
+    "name": "Ladder",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/ladder_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+    "id": 53,
+    "name": "Lock",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/lock_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+
+  {
+    "id": 54,
+    "name": "Matress",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/homeandliving/mattress_600.png",
+    "price": 18,
+        "Category" : "homeliving"
+  },
+  {
+        "id": 55,
+        "name": "Hoodie",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/hoodie_600.png",
+        "price": 25,
+        "Category" : "men"
+      }
+     
+
+      ,{
+        "id": 56,
+        "name": "Men jacket",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menjacket_600.png",
+        "price": 40,
+        "Category" : "men"
+      },
+      {
+        "id": 57,
+        "name": "Sandals",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/mensandals_600.png",
+        "price": 20,
+        "Category" : "men"
+     
+     
+    },
+
+    {
+        "id": 58,
+        "name": "Polo shirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/poloshirt_600.png",
+        "price": 30,
+        "Category" : "men"
+     
+     
+},
+
+{
+    "id": 59,
+    "name": "Jeans",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menjeans_600.png",
+    "price": 100,
+        "Category" : "men"
+ 
+ 
+},
+
+{
+    "id": 60,
+    "name": "Patek Philippe Nautilus",
+    "imageUrl": "https://16stitches.com/assets/frontend/images/images/offer-imgs/img3.jpg",
+    "price": 35,
+        "Category" : "men"
+  },
+
+    {
+        "id": 61,
+        "name": "Everlane shirt",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p1.jpg",
+        "price" :300,
+        "Category" : "men"
+      },
+
+      {
+        "id": 62,
+        "name": "Louis Philippe shirt",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p2.jpg",
+        "price" :250,
+        "Category" : "men"
+      },
+
+      {
+        "id": 63,
+        "name": "Parx shirt",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p3.jpg",
+        "price" :200,
+        "Category" : "men"
+      },
+
+      {
+        "id": 64,
+        "name": "Parx pant",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p4.jpg",
+        "price" :180,
+        "Category" : "men"
+      },
+
+      {
+        "id": 65,
+        "name": "Louis Philippe Pant",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p5.jpg",
+        "price" :200,
+        "Category" : "men"
+      },
+
+      {
+        "id": 66,
+        "name": "Everlane pant",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p6.jpg",
+        "price" :300,
+        "Category" : "men"
+      },
+      
+
+    {
+        "id": 67,
+        "name": "Men Wallet",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menwallet_600.png",
+        "price" :20,
+        "Category" : "men"
+      },
+    {
+      "id": 68,
+      "name": "Loafers",
+      "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/loafers_600.png",
+      "price": 80,
+        "Category" : "men"
+    },
+   
+    {
+            "id": 69,
+            "name": "Men backpack",
+            "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menbackpack_600.png",
+            "price": 150,
+        "Category" : "men"
+         
+    },
+
+    
+    {
+        "id": 70,
+        "name": "Sneakers",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/sneakers_600.png",
+        "price": 25,
+        "Category" : "men"
+     
+     
+    },
+
+    {
+        "id": 71,
+        "name": "Belt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/belt_600.png",
+        "price": 15,
+        "Category" : "men"
+      }
+
+
+      ,{
+        "id": 72,
+        "name": "Black shoes",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/blackshoes_600.png",
+        "price": 45,
+        "Category" : "men"
+      }
+     
+      ,{
+        "id": 73,
+        "name": "Coat",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/coat_600.png",
+        "price": 35,
+        "Category" : "men"
+      }
+     
+
+      ,{
+        "id": 74,
+        "name": "Formal pants",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/formalpants_600.png",
+        "price": 30,
+        "Category" : "men"
+      },
+
+       {
+        "id": 75,
+        "name": "Belt Bag",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/beltbag_600.png",
+        "price" :18,
+        "Category" : "women"
+      },
+    {
+      "id": 76,
+      "name": "Kurtis",
+      "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/dress_600.png",
+      "price": 25,
+        "Category" : "women"
+    },
+   
+    {
+            "id": 77,
+            "name": "Jacket",
+            "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenjacket_600.png",
+            
+            "price": 25 ,
+        "Category" : "women"
+         
+    },
+
+    
+    {
+        "id": 78,
+        "name": "Jeans",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenjeans_600.png",
+        "price": 25,
+        "Category" : "women"
+     
+     
+    },
+
+    {
+        "id": 79,
+        "name": "Leggings",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenleggings_600.png",
+        "price": 25,
+        "Category" : "women"
+      }
+
+
+      ,{
+        "id": 80,
+        "name": "Flatshoes",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/flatshoes_600.png",
+        "price": 25,
+        "Category" : "women"
+      }
+     
+      ,{
+        "id": 81,
+        "name": "Heels",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/heels_600.png",
+        "price": 25,
+        "Category" : "women"
+      }
+     
+
+      ,{
+        "id": 82,
+        "name": "Wedges",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/wedges_600.png",
+        "price": 25,
+        "Category" : "women"
+      }
+     
+
+      ,{
+        "id": 83,
+        "name": "Sandals",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womensandals_600.png",
+        "price": 25,
+        "Category" : "women"
+      }
+     
+
+      ,{
+        "id": 84,
+        "name": "Shorts",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenshorts_600.png",
+        "price": 25,
+        "Category" : "women"
+      },
+      {
+        "id": 85,
+        "name": "Sweatshirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womensweatshirt_600.png",
+        "price": 25,
+        "Category" : "women"
+     
+     
+    },
+
+    {
+        "id": 86,
+        "name": "Shirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenshirt_600.png",
+        "price": 25,
+        "Category" : "women"
+     
+     
+},
+
+{
+    "id": 87,
+    "name": "Skirt",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenskirt_600.png",
+    "price": 25,
+    "Category" : "women"
+ 
+ 
+}
+
+
+    ]

@@ -1,0 +1,195 @@
+[
+	{
+		"id": 1,
+		"name": "Biscuit",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/biscuit_600.png",
+		"price": 20
+	},
+	{
+		"id": 2,
+		"name": "Ginger",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/ginger_600.png",
+		"price": 10
+	},
+
+	{
+		"id": 3,
+		"name": "Instant Noodles",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/instantnoodles_600.png",
+		"price": 30
+	},
+
+	{
+		"id": 4,
+		"name": "Juice",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/juice_600.png",
+		"price": 20
+	},
+
+	{
+		"id": 5,
+		"name": "Ketchup",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/ketchup_600.png",
+		"price": 20
+	},
+
+	{
+		"id": 6,
+		"name": "Matches",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/matches_600.png",
+		"price": 5
+	},
+
+	{
+		"id": 7,
+		"name": "Mayonaise",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/mayonaise_600.png",
+		"price": 100
+	},
+
+	{
+		"id": 8,
+		"name": "Mustard",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/mustard_600.png",
+		"price": 10
+	},
+
+	{
+		"id": 9,
+		"name": "OatMeal",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/oatmeal_600.png",
+		"price": 20
+	},
+
+	{
+		"id": 10,
+		"name": "Olive oil",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/oliveoil_600.png",
+		"price": 30
+	},
+
+	{
+		"id": 11,
+		"name": "Onions",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/onions_600.png",
+		"price": 20
+	},
+
+	{
+		"id": 12,
+		"name": "Pork",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/pork_600.png",
+		"price": 180
+	},
+
+	{
+		"id": 13,
+		"name": "Tea",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/tea_600.png",
+		"price": 12
+	},
+
+	{
+		"id": 14,
+		"name": "Tequila",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/tequila_600.png",
+		"price": 18
+	},
+
+	{
+		"id": 15,
+		"name": "Tomatoes",
+		"imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/groceries/tomatoes_600.png",
+		"price": "18/kg"
+	},
+	{
+		"id": 21,
+		"name": "Cookies",
+		"price": 25,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/features/product_1.jpg"
+	},
+
+	{
+		"id": 22,
+		"name": "Grapes",
+		"price": 30,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/features/product_2.jpg"
+	},
+
+	{
+		"id": 23,
+		"name": "Jack Fruit",
+		"price": 30,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/features/product_3.jpg"
+	},
+
+	{
+		"id": 24,
+		"name": "Banana",
+		"price": 15,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/features/product_4.jpg"
+	},
+
+	{
+		"id": 25,
+		"name": "Eggs",
+		"price": 5,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/features/product_5.jpg"
+	},
+
+	{
+		"id": 26,
+		"name": "Cup Cake",
+		"price": 10,
+		"imageUrl": "  https://16stitches.com/assets/frontend/images/images/product/bakery/product_1.jpg"
+	},
+
+	{
+		"id": 27,
+		"name": "Red Velvet",
+		"price": 50,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/bakery/product_2.jpg"
+	},
+
+	{
+		"id": 28,
+		"name": "Cookies",
+		"price": 30,
+		"imageUrl": " https://16stitches.com/assets/frontend/images/images/product/bakery/product_3.jpg"
+	},
+
+	{
+		"id": 29,
+		"name": "Fruit Cake",
+		"price": 20,
+		"imageUrl": "  https://16stitches.com/assets/frontend/images/images/product/bakery/product_4.jpg"
+	},
+
+	{
+		"id": 30,
+		"name": "Icecream",
+		"price": 15,
+		"imageUrl": "  https://16stitches.com/assets/frontend/images/images/product/bakery/product_5.jpg"
+	},
+
+	{
+		"id": 31,
+		"name": "Chocolate Cookie",
+		"price": 20,
+		"imageUrl": "  https://16stitches.com/assets/frontend/images/images/product/bakery/product_6.jpg"
+	},
+
+	{
+		"id": 30,
+		"name": "Wheat Grains",
+		"price": 10,
+		"imageUrl": "  https://16stitches.com/assets/frontend/images/images/product/bakery/product_7.jpg"
+	},
+
+	{
+		"id": 30,
+		"name": "Cookies",
+		"price": 17,
+		"imageUrl": "  https://16stitches.com/assets/frontend/images/images/product/bakery/product_8.jpg"
+	}
+]

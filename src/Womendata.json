@@ -1,0 +1,109 @@
+
+[
+    {
+        "id": 1,
+        "name": "Belt Bag",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/beltbag_600.png",
+        "price" :18
+      },
+    {
+      "id": 2,
+      "name": "Kurtis",
+      "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/dress_600.png",
+      "price": 25
+    },
+   
+    {
+            "id": 3,
+            "name": "Jacket",
+            "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenjacket_600.png",
+            
+            "price": 25 
+         
+    },
+
+    
+    {
+        "id": 4,
+        "name": "Jeans",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenjeans_600.png",
+        "price": 25
+     
+     
+    },
+
+    {
+        "id": 5,
+        "name": "Leggings",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenleggings_600.png",
+        "price": 25
+      }
+
+
+      ,{
+        "id": 6,
+        "name": "Flatshoes",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/flatshoes_600.png",
+        "price": 25
+      }
+     
+      ,{
+        "id": 7,
+        "name": "Heels",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/heels_600.png",
+        "price": 25
+      }
+     
+
+      ,{
+        "id": 8,
+        "name": "Wedges",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/wedges_600.png",
+        "price": 25
+      }
+     
+
+      ,{
+        "id": 9,
+        "name": "Sandals",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womensandals_600.png",
+        "price": 25
+      }
+     
+
+      ,{
+        "id": 10,
+        "name": "Shorts",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenshorts_600.png",
+        "price": 25
+      },
+      {
+        "id": 12,
+        "name": "Sweatshirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womensweatshirt_600.png",
+        "price": 25
+     
+     
+    },
+
+    {
+        "id": 12,
+        "name": "Shirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenshirt_600.png",
+        "price": 25
+     
+     
+},
+
+{
+    "id": 13,
+    "name": "Skirt",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionwomen/womenskirt_600.png",
+    "price": 25
+ 
+ 
+}
+
+
+  ]
+  

@@ -1,0 +1,33 @@
+.modalpopup{
+    margin: 40px;
+    
+}
+
+.modaltitle{
+ 
+    display: grid;
+    text-align: right;
+    padding: 10px;
+    cursor: pointer;
+  
+ }
+ 
+
+.modalbuttons{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.modalbtns{
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+
+   
+}
+
+
+

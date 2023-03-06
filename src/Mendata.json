@@ -1,0 +1,160 @@
+[
+
+   
+    {
+        "id": 1,
+        "name": "Everlane shirt",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p1.jpg",
+        "price" :300
+      },
+
+      {
+        "id": 2,
+        "name": "Louis Philippe shirt",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p2.jpg",
+        "price" :250
+      },
+
+      {
+        "id": 3,
+        "name": "Parx shirt",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p3.jpg",
+        "price" :200
+      },
+
+      {
+        "id": 4,
+        "name": "Parx pant",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p4.jpg",
+        "price" :180
+      },
+
+      {
+        "id": 5,
+        "name": "Louis Philippe Pant",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p5.jpg",
+        "price" :200
+      },
+
+      {
+        "id": 6,
+        "name": "Everlane pant",
+        "imageUrl": " https://raw.githubusercontent.com/basir/amazona/master/frontend/public/images/p6.jpg",
+        "price" :300
+      },
+      
+
+    {
+        "id": 7,
+        "name": "Men Wallet",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menwallet_600.png",
+        "price" :20
+      },
+    {
+      "id": 8,
+      "name": "Loafers",
+      "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/loafers_600.png",
+      "price": 80
+    },
+   
+    {
+            "id": 9,
+            "name": "Men backpack",
+            "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menbackpack_600.png",
+            "price": 150
+         
+    },
+
+    
+    {
+        "id": 10,
+        "name": "Sneakers",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/sneakers_600.png",
+        "price": 25
+     
+     
+    },
+
+    {
+        "id": 11,
+        "name": "Belt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/belt_600.png",
+        "price": 15
+      }
+
+
+      ,{
+        "id": 12,
+        "name": "Black shoes",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/blackshoes_600.png",
+        "price": 45
+      }
+     
+      ,{
+        "id": 13,
+        "name": "Coat",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/coat_600.png",
+        "price": 35
+      }
+     
+
+      ,{
+        "id": 14,
+        "name": "Formal pants",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/formalpants_600.png",
+        "price": 30
+      }
+     
+
+      ,{
+        "id": 15,
+        "name": "Hoodie",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/hoodie_600.png",
+        "price": 25
+      }
+     
+
+      ,{
+        "id": 16,
+        "name": "Men jacket",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menjacket_600.png",
+        "price": 40
+      },
+      {
+        "id": 17,
+        "name": "Sandals",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/mensandals_600.png",
+        "price": 20
+     
+     
+    },
+
+    {
+        "id": 18,
+        "name": "Polo shirt",
+        "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/poloshirt_600.png",
+        "price": 30
+     
+     
+},
+
+{
+    "id": 19,
+    "name": "Jeans",
+    "imageUrl": "https://raw.githubusercontent.com/rookiemonkey/dummy-products-api/master/products/fashionmen/menjeans_600.png",
+    "price": 100
+ 
+ 
+},
+
+{
+    "id": 20,
+    "name": "Patek Philippe Nautilus",
+    "imageUrl": "https://16stitches.com/assets/frontend/images/images/offer-imgs/img3.jpg",
+    "price": 35
+  }
+
+
+
+  ]
+  
