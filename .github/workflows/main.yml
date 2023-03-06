@@ -14,5 +14,5 @@ jobs:
       - name: Hello world
         run: |
           npm install
-          npm build
+          npm run build
         
